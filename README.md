@@ -21,9 +21,9 @@ http://ia801509.us.archive.org/0/items/geometry-dash-ios-archive/Geometry%20Dash
 
 http://ia801509.us.archive.org/0/items/angry-birds-collection_202208/Angry%20Birds%20HD/Angry%20Birds%20HD%201.2.2.ipa
 
-http://ia801509.us.archive.org/6/items/flappy-bird-v-1.3_202412/Flappy%20Bird%20v1.3.ipa
+http://ia801509.us.archive.org/0/items/flappy-bird-1.3-358202647/02%20Flappy%20Bird%201.1.0%20%2816740092%29.ipa
 
-http://ia801509.us.archive.org/0/items/pv-z-hd-1.9.11-817652826/15%20Plants%20vs.%20Zombies%20HD%201.9.12%20%28817987419%29.ipa
+http://ia801509.us.archive.org/0/items/pvz-hd-archive_202306/PvZ%20HD%201.0.4.ipa
 
 http://ia801509.us.archive.org/0/items/fruitninjahd1.8.2iphonebest.ru/Fruit_Ninja_HD_1.8.2_iphone-best.ru_.ipa
 
