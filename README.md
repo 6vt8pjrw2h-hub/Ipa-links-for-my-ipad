@@ -20,3 +20,13 @@ http://ia801509.us.archive.org/0/items/Jetpack_Joyride_1.1.5_ios_3.1.3/Jetpack_J
 http://ia801509.us.archive.org/0/items/geometry-dash-ios-archive/Geometry%20Dash/Geometry%20Dash%20v1.930%20%28iOS%205.1.1%2B%29.ipa
 
 http://ia801509.us.archive.org/0/items/angry-birds-collection_202208/Angry%20Birds%20HD/Angry%20Birds%20HD%201.2.2.ipa
+
+http://ia801509.us.archive.org/6/items/flappy-bird-v-1.3_202412/Flappy%20Bird%20v1.3.ipa
+
+http://ia801509.us.archive.org/0/items/pv-z-hd-1.9.11-817652826/15%20Plants%20vs.%20Zombies%20HD%201.9.12%20%28817987419%29.ipa
+
+http://ia801509.us.archive.org/0/items/fruitninjahd1.8.2iphonebest.ru/Fruit_Ninja_HD_1.8.2_iphone-best.ru_.ipa
+
+http://ia801509.us.archive.org/0/items/infinity-blade-v-1.4.3-hs/Infinity%20Blade%20V%201.4.3%20HS.ipa
+
+http://ia801509.us.archive.org/0/items/Cooking_Mama_5.6.0_ios_3.0/Cooking_Mama_5.6.0_ios_3.0.ipa
