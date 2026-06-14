@@ -32,3 +32,5 @@ http://ia801509.us.archive.org/0/items/infinity-blade-v-1.4.3-hs/Infinity%20Blad
 http://ia801509.us.archive.org/0/items/Cooking_Mama_5.6.0_ios_3.0/Cooking_Mama_5.6.0_ios_3.0.ipa
 
 http://ia801509.us.archive.org/0/items/taiko-no-tatsujin-popular-song-pack-1/Taiko_no_Tatsujin_v1.1.0_os312.ipa
+
+http://ia801509.us.archive.org/0/items/call-of-duty-waw-blackops-zombies-stirketeam-ios/Call%20of%20Duty%20Black%20Ops%20Zombies/Call%20of%20Duty%20Black%20Ops%20Zombies%20v1.3.5%20%28IOS%205.1.1%2B%20iPad%20Optimized%29.ipa
